@@ -1,0 +1,136 @@
+body {
+    background-color: #D9EDBF;
+}
+
+#mydiv {
+    text-align: center;
+    background-color: #D9EDBF;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+
+/* for header */
+.h2 {
+    text-shadow: blanchedalmond;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}
+
+#myInput {
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+    width: 70%;
+    border: 5px solid #FF9800;
+    border-radius: 5px;
+    font-size: large;
+    text-transform: unset;
+    text-align: center;
+
+}
+
+#btn1 {
+    background-color:#A0153E;
+    width: 10%;
+    height: 40px;
+    font-size: large;
+    font-style: italic;
+    border-radius: 0.5rem;
+    color: white;
+    cursor: pointer;
+   
+    
+}
+#btn1:hover{
+    background-color: #FF204E;
+}
+
+    
+
+#myUL {
+    list-style: none;
+    padding: auto;
+}
+
+#myUL li {
+    width: 70%;
+    background-color: #76885B;
+    margin: 5px;
+    height: 50px;
+    padding: 12px 8px 12px 40px;
+    font-size: large;
+    font-style: bold;
+    border: 3px solid red;
+    
+}
+.button2{
+    position: absolute;
+    right: 120px;
+    width: 5rem;
+    height: 2.5rem;
+    padding-right: 90px;
+    background-color: #A0153E;
+    font-size: large;
+    font-style: italic;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    color: white;
+    text-align: center;
+}
+.button2:hover{
+    background-color: #FF204E;
+}
+
+.button3{
+    position: absolute;
+    right: 240px;
+    width: 5rem;
+    height: 2.5rem;
+    padding-right: 90px;
+    background-color: #A0153E;
+    font-size: large;
+    font-style: italic;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    color: white;
+    text-align: center;
+}
+.button3:hover{
+    background-color: #FF204E;
+}
+
+#btn3 {
+    background-color:#A0153E;
+    width: 10%;
+    height: 40px;
+    font-size: large;
+    font-style: italic;
+    border-radius: 0.5rem;
+    color: white;
+    cursor: pointer;
+    margin: 5px;
+   
+    
+}
+#btn3:hover{
+    background-color: #FF204E;
+}
+/* .button2 {
+    background-color: #7469B6;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: large;
+    font-weight: bold;
+    text-transform: capitalize;
+
+
+} */
